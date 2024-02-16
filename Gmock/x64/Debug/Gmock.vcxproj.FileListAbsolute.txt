@@ -1,0 +1,1 @@
+C:\Users\amits\source\repos\Gmock\Gmock\x64\Debug\Gmock.vcxproj.CopyComplete
